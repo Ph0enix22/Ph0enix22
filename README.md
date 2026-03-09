@@ -11,6 +11,13 @@
   <img src="https://github-readme-stats-eight-beryl-95.vercel.app/api?username=Ph0enix22&show_icons=true&theme=aura_dark" width="390" />
 </p>
 
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3RteWloemJsM3gzcDdjZHMzejg2eDAxMm1wYWR3YWRidDBuZDkzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZdVEWqEjLruZayt78/giphy.gif" width="30"/> Certifications & Learning</h2>
+<p align="center">
+  <a href="https://github.com/Ph0enix22/certificates">
+    <img src="https://img.shields.io/badge/MY_CERTIFICATES-VIEW_REPO-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3RteWloemJsM3gzcDdjZHMzejg2eDAxMm1wYWR3YWRidDBuZDkzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZdVEWqEjLruZayt78/giphy.gif" width="30"/> Tech Arsenal</h2>
 <div align="center">
 <h3 align="center">Languages</h3>
