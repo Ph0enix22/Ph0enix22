@@ -2,14 +2,46 @@
 
 <!-- Top welcome banner -->
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV1azRpcW9sY203bjc2a254ZTI3NDRtc2h1ZTd5ZDNxMDUwNHJpbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y4hQj1h0eVbE3rIInW/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/SBfwILF0QYcS0o7qc9/giphy.gif" width="200" alt="Hello with a heart"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV1azRpcW9sY203bjc2a254ZTI3NDRtc2h1ZTd5ZDNxMDUwNHJpbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iroGO5siMg0eXrwI2v/giphy.gif" width="100"/>
 </p>
+
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV1azRpcW9sY203bjc2a254ZTI3NDRtc2h1ZTd5ZDNxMDUwNHJpbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iroGO5siMg0eXrwI2v/giphy.gif" width="60"/><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmV6cG5iYTRtc2dvc28wMm9jeHNxdjhvc21pdGFpMWRhNWdmbjh1YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/T9NFsJk8Gqd4Mvc98E/giphy.gif" width="60"/>🌸 Praise 🌸<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmV6cG5iYTRtc2dvc28wMm9jeHNxdjhvc21pdGFpMWRhNWdmbjh1YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/T9NFsJk8Gqd4Mvc98E/giphy.gif" width="60"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV1azRpcW9sY203bjc2a254ZTI3NDRtc2h1ZTd5ZDNxMDUwNHJpbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y4hQj1h0eVbE3rIInW/giphy.gif" width="80"/></h1>
+
+<p align="center">
+Building across AI • Embedded Systems • Backend • Design
+</p>
+
+---
 
 <!-- GITHUB STATS IN A CARD -->
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3RteWloemJsM3gzcDdjZHMzejg2eDAxMm1wYWR3YWRidDBuZDkzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZdVEWqEjLruZayt78/giphy.gif" width="30"/> Stats & Battle Record</h2>
 <p align="center">
   <img src="https://github-readme-stats-eight-beryl-95.vercel.app/api?username=Ph0enix22&show_icons=true&theme=aura_dark" width="390" />
 </p>
+
+---
+
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3RteWloemJsM3gzcDdjZHMzejg2eDAxMm1wYWR3YWRidDBuZDkzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZdVEWqEjLruZayt78/giphy.gif" width="30"/> Current Focus</h2>
+
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV3MnYzZzVnY2c3aGdzdzBpZm5rb2g3ZzFyN3I1M2Z3bXBsNTY4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dJjRczdBGA7JKNDHlM/giphy.gif" width="30"/> Building</h3>
+
+- Expert Decision Replay Platform
+
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpsenhkY3lhMzhjMDN3dmNhMWI0NG9hdG1ncjF4ZG04MGRrMjA2diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"/> Learning</h3>
+
+- TinyML
+
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp6b3F1ZnA2Zmd6aG9jdWl2ZHR6NnhzMm42MjV1M2d0bXNzejJmdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/csU69iHH6Veea37J7G/giphy.gif" width="35"/> Language</h3>
+
+- Mandarin Chinese
+
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnhoZzF1ZXc5Zm1pN2o3MmhpajRncnZwYWtpdnZzZWV5YXFrdXg1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MZXmFVrbMA1qSDNGOt/giphy.gif" width="35"/> Next</h3>
+
+- Personal Portfolio Website
+
+---
 
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3RteWloemJsM3gzcDdjZHMzejg2eDAxMm1wYWR3YWRidDBuZDkzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZdVEWqEjLruZayt78/giphy.gif" width="30"/> Certifications & Learning</h2>
 <p align="center">
@@ -18,24 +50,81 @@
   </a>
 </p>
 
-<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3RteWloemJsM3gzcDdjZHMzejg2eDAxMm1wYWR3YWRidDBuZDkzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZdVEWqEjLruZayt78/giphy.gif" width="30"/> Tech Arsenal</h2>
-<div align="center">
-<h3 align="center">Languages</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a></p>
+---
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo5MXZrdjUyYTNpNGxieWhlNWVheTJyZzM5eTc0OTVpdGJ2YWh2byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="50"/> Toolbox
 
-<h3 align="center">AI/ML & Data</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a></p>
+###  Programming
 
-<h3 align="center">Databases</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,php"/>
+</p>
 
-<h3 align="center">Tools</h3>
-<p align="center"></p><a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a></p>
+###  AI / Machine Learning
 
-<h3 align="center">Software/Platforms</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
+</p>
 
-</div>
+###  Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42"/>
+</p>
+
+###  Embedded
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+</p>
+
+###  Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+###  Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+---
+
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWQ2ODQxejRkcG01a3cxejlwdHVxZHJrYnJvcXRtdmxld3Y3ajM2OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwNqyraVimPM4Ba/giphy.gif" width="30"/> Around the Corner</h2>
+
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHQwcWtqY2w4dnlmYXU5eDhsNGl2MXd2ODdpaTA0bmtxd3FnNWFwNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="30"/> Reading</h3>
+
+> Currently updating...
+ 
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnZ3MjJzemQ3dWR2NXB4YXU1cTFycG5jcmI0bGE3MHp6a2plMGFwciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uPfVxY0EAWujOpDwRa/giphy.gif" width="30"/> Dreams & Goals</h3>
+
+> Figuring out...
+ 
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp6b3F1ZnA2Zmd6aG9jdWl2ZHR6NnhzMm42MjV1M2d0bXNzejJmdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RXJXrVNAOOCsTzBOU5/giphy.gif" width="30"/> Languages</h3>
+
+> English • Hindi • Urdu • Kannada • Mandarin • Arabic • Indonesian (Learning)
+
+---
+
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHBmZmI3cWprYTM0eXp6b2NmZmxhdmJ1b3lqMXo3emVsYnNlMXVrZiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/LpEzSHXA21dEmRPCP3/giphy.gif" width="40"/> Connect <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHBmZmI3cWprYTM0eXp6b2NmZmxhdmJ1b3lqMXo3emVsYnNlMXVrZiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/LpEzSHXA21dEmRPCP3/giphy.gif" width="40"/></h2>
+
+<p align="center">
+<a href="https://github.com/Ph0enix22">GitHub</a>
+•
+<a href="mailto:syedamidhath159@gmail.com">Email</a>
+•
+Portfolio (Coming Soon)
+</p>
+
+---
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHBmZmI3cWprYTM0eXp6b2NmZmxhdmJ1b3lqMXo3emVsYnNlMXVrZiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/MnUxEHLIRn9reYpskn/giphy.gif" width="60"/></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3RteWloemJsM3gzcDdjZHMzejg2eDAxMm1wYWR3YWRidDBuZDkzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/moSqJKF3Nk6hATGkLq/giphy.gif" width="150"/>
