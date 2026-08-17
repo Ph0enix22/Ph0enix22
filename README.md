@@ -46,6 +46,12 @@ Learning • Building • Still figuring things out
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo5MXZrdjUyYTNpNGxieWhlNWVheTJyZzM5eTc0OTVpdGJ2YWh2byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="50"/> Toolbox
 
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,js"/>
+</p>
+
 ###  Programming
 
 <p align="center">
@@ -55,8 +61,7 @@ Learning • Building • Still figuring things out
 ###  AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-<img src="https://skillicons.dev/icons?i=anaconda"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
@@ -65,15 +70,20 @@ Learning • Building • Still figuring things out
 ###  Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42"/>
 </p>
 
 ###  Embedded
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arduino"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+</p>
+
+### Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,nginx"/>
 </p>
 
 ###  Tools
