@@ -27,7 +27,7 @@ Learning • Building • Still figuring things out
 
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpsenhkY3lhMzhjMDN3dmNhMWI0NG9hdG1ncjF4ZG04MGRrMjA2diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"/> Learning</h3>
 
-- TinyML
+- Full Stack
 
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp6b3F1ZnA2Zmd6aG9jdWl2ZHR6NnhzMm42MjV1M2d0bXNzejJmdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/csU69iHH6Veea37J7G/giphy.gif" width="35"/> Language</h3>
 
