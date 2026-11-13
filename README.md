@@ -23,7 +23,7 @@ Learning • Building • Still figuring things out
 
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV3MnYzZzVnY2c3aGdzdzBpZm5rb2g3ZzFyN3I1M2Z3bXBsNTY4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dJjRczdBGA7JKNDHlM/giphy.gif" width="30"/> Building</h3>
 
-- Expert Decision Replay Platform
+- FinSight
 
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpsenhkY3lhMzhjMDN3dmNhMWI0NG9hdG1ncjF4ZG04MGRrMjA2diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"/> Learning</h3>
 
